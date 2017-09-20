@@ -1,12 +1,10 @@
 {
   "version": "1.00",
   "title": "Beta finished",
-  "files": [
-    {
-      "name": "GS_GW",
-      "format": "png",
-      "src": "system/updates",
-      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
-    }
-  ]
+  "files": [{
+    "name": "Icon",
+    "format": "png",
+    "src": "system/updates",
+    "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
+  }]
 }
