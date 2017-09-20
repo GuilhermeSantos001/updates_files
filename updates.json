@@ -3,7 +3,7 @@
   "files": [
     {
       "name": "icon",
-      "src": "system",
+      "src": "system/updates",
       "url": "https://github.com/GuilhermeSantos001/updates_files/raw/master/icon.png"
     }
   ]
