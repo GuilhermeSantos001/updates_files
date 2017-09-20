@@ -1,4 +1,8 @@
 {
   "version": "1.00",
-  "files": []
+  "files": [
+    {
+      "name": "teste"
+    }
+  ]
 }
