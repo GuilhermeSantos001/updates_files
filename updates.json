@@ -2,7 +2,8 @@
   "version": "1.00",
   "files": [
     {
-      "name": "teste"
+      "name": "teste",
+      "src": "system/path"
     }
   ]
 }
