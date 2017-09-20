@@ -5,7 +5,7 @@
       "name": "icon",
       "format": "png",
       "src": "system/updates",
-      "url": "https://github.com/GuilhermeSantos001/updates_files/raw/master/icon.png"
+      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
     }
   ]
 }
