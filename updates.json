@@ -2,7 +2,7 @@
   "version": "1.00",
   "files": [
     {
-      "name": "icon",
+      "name": "GS_GW",
       "format": "png",
       "src": "system/updates",
       "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
