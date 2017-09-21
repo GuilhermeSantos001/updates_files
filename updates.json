@@ -6,14 +6,22 @@
       "format": "png",
       "src": "system/updates",
       "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png",
-      "version": "1.00"
+      "version": "1.00",
+      "description": {
+        "pt_br": "Icone para teste",
+        "en_us": "Icon to test"
+      }
     },
     {
       "name": "Icon2",
       "format": "png",
       "src": "system/updates",
       "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/circle.png",
-      "version": "1.00"
+      "version": "1.00",
+      "description": {
+        "pt_br": "Icone para teste",
+        "en_us": "Icon to test"
+      }
     }
   ]
 }
