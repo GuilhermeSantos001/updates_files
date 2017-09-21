@@ -5,13 +5,15 @@
       "name": "Icon",
       "format": "png",
       "src": "system/updates",
-      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
+      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png",
+      "version": "1.00"
     },
     {
       "name": "Icon2",
       "format": "png",
       "src": "system/updates",
-      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/circle.png"
+      "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/circle.png",
+      "version": "1.00"
     }
   ]
 }
