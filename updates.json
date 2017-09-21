@@ -23,5 +23,14 @@
         "en_us": "Icon to test"
       }
     }
-  ]
+  ],
+  "files_remove": [{
+    "name": "Icon",
+    "format": "png",
+    "src": "system/updates",
+    "description": {
+      "pt_br": "Removido por falta de uso",
+      "en_us": "Removed due to lack of use"
+    }
+  }]
 }
