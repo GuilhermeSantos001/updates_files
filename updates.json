@@ -1,6 +1,12 @@
 {
   "version": "1.00",
   "title": "Beta finished",
+  "icon_refresh": {
+    "name": "Refresh",
+    "format": "png",
+    "src": "img/system",
+    "url": "https://raw.githubusercontent.com/GuilhermeSantos001/updates_files/master/icon.png"
+  },
   "files": [{
       "name": "Icon",
       "format": "png",
