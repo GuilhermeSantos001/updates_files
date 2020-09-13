@@ -1,0 +1,10 @@
+# Principais mudanças:
+- Agora o sistema está se comunicando com o controle online
+
+- Alteração do metodo de escrita dos arquivos no sistema
+
+- Nova classe API adicionada para comunicação com o controle online
+
+- Novas opções adicionadas na janela de configuração para comunicação com o controle online
+
+- Correção de erros no frame.
